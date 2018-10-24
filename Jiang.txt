@@ -1,0 +1,7 @@
+﻿One case of using linear regression is planning out vacation trips and business travels in advance. If you’re only able to stay for a week, you have to prioritize all the things you HAVE to do first, rather than spend most of your remaining time driving or doing the activities you felt were boring,  didn’t. Routes have to be mapped, traffic accounted for, and weather delays all have to be considered. The x and y models will be the the time it takes to get there and the time you’re allowed to spend on each activity
+
+
+Naive Bayes has the potential to sort out junk mail if you make the effort to automatically key phrases that trigger the filter. Sorting out emails that include your name or your cell phone number, they somehow found out
+
+
+Nearest neighbor has helped entrepreneurs decide how many products and the maximum profit they can sell them for.
