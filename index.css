@@ -1,0 +1,25 @@
+.images-container {
+    display: flex;
+    justify-content: space-between; 
+    }
+    
+.container {
+    flex-flow: column 
+}
+
+.container {
+    flex-wrap: wrap 
+}
+
+.container { 
+justify-content: center 
+}
+
+.container {
+    align-items: flex-start
+}
+
+img {
+    width: 200px
+    
+}
